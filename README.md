@@ -11,4 +11,6 @@ First of all read [this guide](https://help.github.com/articles/cloning-a-reposi
 ![MER Soccer Diary](/images/MER_Soccer.png)
 
 
-:camel:
+If you have any issue, question or problem, please contact me to my email **acero01@gmail.com**
+
+To :camel:
